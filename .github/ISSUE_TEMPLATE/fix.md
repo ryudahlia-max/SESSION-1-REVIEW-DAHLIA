@@ -1,6 +1,6 @@
 ---
 name: fix template 
-about: 
+about: 오타 수정
 title: '[FIX] 오타 수정'
 labels: fix
 assignees: ''
@@ -12,7 +12,7 @@ assignees: ''
 ---
 
 ## 🎯 작업 목적 (Why)
-오타를 수정하기 위함입니다. 
+잘못된 정보를 전달하지 않기 위함입니다.  
 
 ---
 
