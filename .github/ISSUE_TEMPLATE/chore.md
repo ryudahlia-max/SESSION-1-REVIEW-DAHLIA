@@ -1,6 +1,6 @@
 ---
 name: chore template
-about: chore
+about: README 수정
 title: '[CHORE] README 수정'
 labels: chore
 assignees: ''
@@ -12,13 +12,13 @@ README를 수정합니다.
 ---
 
 ## 🎯 작업 목적 (Why)
-이 프로젝트가 무엇인지 설명하기 위함입니다. 
+프로젝트에 대한 잘못된 설명을 방지하기 위함입니다. 
 
 ---
 
 ## 🧱 작업 범위 (Scope)
 - 프로젝트에 대한 잘못된 설명 삭제
-- 프로젝트에 대한 새로운 설명 추가
+- 프로젝트에 대한 올바른 설명 추가 
 
 ---
 
